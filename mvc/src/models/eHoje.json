@@ -1,0 +1,26 @@
+[
+    {
+
+    "nome": "Tuane Freitas",
+    "CPF": "105.555.555.55",
+    "endereço" {
+    
+        "Rua": "Rua do fim",
+        "Numero":"12",
+        "Bairro": "Fim do mundo",
+        "Cidade": "Recife",
+        "Estado":"Pernambuco",
+        "Pais": "Brasil",
+        "CEP": "54826-20"
+
+    } ,
+
+    "telefone": "81 9 9999.9889",
+    "email":"tuanefreitas@gmail.com", 
+    "comoChegou":,
+
+
+
+
+    }
+]

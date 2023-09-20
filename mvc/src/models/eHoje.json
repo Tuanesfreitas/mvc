@@ -1,7 +1,11 @@
 [
     {
         "nome": "Tuane Freitas",
+        "dataNascimento": "24/11/1992",
         "cpf": "105.555.555.55",
+        "sexo":"feminino",
+        "peso": "60 kg",
+        "tipoSanguineo": "O+",
         "endereço": {
             "rua": "Rua do fim",
             "numero": 12,
@@ -9,10 +13,14 @@
             "cidade": "Recife",
             "estado": "Pernambuco",
             "pais": "Brasil",
-            "cep": "54826-20"
+            "cep": "54826-20",
         },
-        "telefone": "81 9 9999.9889",
+        "telefone": ["81 9 9999.9889"],
         "email": "tuanefreitas@gmail.com",
-        "comoChegou": "indicação amigo"
+        "tatto":"true",
+        "tempoTatto":"2 anos",
+        "indicaAmigos": "indicação amigo",
+        "permissaoNotificacao":"false",
+        "origem":"panfletagem",
     }
 ]

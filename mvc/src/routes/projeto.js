@@ -4,7 +4,9 @@ import ProjetoController from '../controllers/projetoControllers.js';
 const router = express.Router();
 
 router 
-.get("/",ProjetoController.getAllProjetos)
-.post("/",ProjetoController.createProjetos)
+.get("/", ProjetoController.getAllProjetos)
+.post("/", ProjetoController.createProjetos)
+.put("/:id", ProjetoController.updateProjetos)
+.delete("/:id", ProjetoController.deleteProjetos)
 
 export default router;

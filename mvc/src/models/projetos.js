@@ -16,9 +16,7 @@ const projetoSchema = new mongoose.Schema(
         tempoTatto: { type: String, require: true },
         indicaAmigos: { type: Boolean },
         permissaoNotificacao: { type: Boolean, require: true },
-        origem: { type: String, require: true },
-
-
+        origem: { type: String, require: true }
     }
 )
 

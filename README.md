@@ -2,7 +2,7 @@
 
 Este projeto é uma landing page do projeto É Hoje.
 
-![projeto](./image/fotosite.jpg)
+![projeto](./mvc/image/fotosite.jpg)
 
 # Índice
 
@@ -25,7 +25,7 @@ Nosso projeto teve origem a partir de pesquisas realizadas sobre os bancos de sa
 
 ## Funcionalidades e Demonstração da Aplicação
 
-![SPA](./image/3054070.jpg)
+![SPA](./mvc/image/3054070.jpg)
 
 - `Funcionalidade 1`:  Acesso do doador ao projeto.
 - `Funcionalidade 2`:  Acesso para empresas se associarem.

@@ -27,11 +27,6 @@ Nosso projeto teve origem a partir de pesquisas realizadas sobre os bancos de sa
 
 ![SPA](./mvc/image/3054070.jpg)
 
-- `Funcionalidade 1`:  Acesso do doador ao projeto.
-- `Funcionalidade 2`:  Acesso para empresas se associarem.
-- `Funcionalidade 3`: Tecnologias utilizadas no projeto
-
-
 ## Acesso ao Projeto
 
 ### Acesso do doador interessado:
